@@ -7,7 +7,7 @@ title: VB.club
 subtitle: ''
 description: ''
 keywords:
-author: gua
+author: cylecpig
 language: en
 timezone: ''
 
@@ -103,5 +103,3 @@ theme: landscape
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: ''
-
-
